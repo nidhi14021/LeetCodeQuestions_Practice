@@ -26,22 +26,6 @@ nums = [0,1,0,3,12]
 
 **Python 3**
 
----
-
-## Approach (Two Pointers)
-
-- Use a pointer `j` to keep track of the position where the next non-zero element should be placed.
-- Traverse the array using pointer `i`.
-- Whenever a non-zero element is found, swap it with the element at index `j`.
-- Increment `j` after every successful swap.
-- By the end of the traversal, all non-zero elements remain in their original order, and all zeros are automatically moved to the end.
-
----
-
-## Time Complexity
-
-- **Time:** `O(n)`
-- **Space:** `O(1)`
 
 ---
 
