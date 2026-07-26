@@ -1,31 +1,85 @@
-# 👋 Hi, I'm Nidhi!
+# 🚀 LeetCode Solutions
 
-💻 Passionate about Data Structures & Algorithms and Software Development.
+Welcome to my **LeetCode Solutions** repository! This repository contains my solutions to LeetCode problems, written primarily in **Python**, along with explanations, approaches, and complexity analysis.
 
-## 🚀 LeetCode Journey
+## 📌 About
 
-I regularly solve LeetCode problems to strengthen my problem-solving skills and prepare for coding interviews.
+This repository serves as my coding practice journal where I solve LeetCode problems to strengthen my understanding of:
 
-### Topics Covered
+- Data Structures
+- Algorithms
+- Problem-Solving Skills
+- Coding Interview Preparation
+
+Each solution includes:
+- ✅ Problem Link
+- ✅ Approach
+- ✅ Python Solution
+- ✅ Example
+- ✅ Time Complexity
+- ✅ Space Complexity
+
+---
+
+## 🛠️ Languages Used
+
+- Python 
+- SQL 
+
+---
+
+## 📚 Topics Covered
+
 - Arrays
 - Strings
-- Linked Lists
-- Trees
-- Binary Search Trees
-- Stacks & Queues
 - Hash Maps
-- Recursion
+- Two Pointers
+- Sliding Window
+- Stack
+- Queue
+- Linked List
+- Trees
+- Binary Search Trees (BST)
 - Binary Search
-- Greedy Algorithms
-- Dynamic Programming
+- Recursion
+- Backtracking
+- Heap (Priority Queue)
 - Graphs
-- SQL
+- Dynamic Programming
+- Greedy Algorithms
 - Bit Manipulation
-
-### Languages
-- Python 🐍
+- Math
 - SQL
 
-🎯 **Goal:** Solve problems consistently, improve algorithmic thinking, and become interview-ready.
+---
+
+
+
+
+
+## 🎯 Goal
+
+- Solve LeetCode problems consistently.
+- Improve algorithmic thinking.
+- Prepare for coding interviews.
+- Build a strong problem-solving foundation.
+
+---
+
+## 📈 Progress
+
+I regularly update this repository with new solutions as I continue my LeetCode journey.
+
+---
+
+## 🤝 Contributions
+
+This repository is maintained for learning purposes. Suggestions and improvements are always welcome.
+
+---
+
+## ⭐ Connect
+
+If you find this repository helpful, feel free to ⭐ star it!
 
 Happy Coding! 🚀
